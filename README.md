@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sahan Chamika</h1>
 <h3 align="center">Exploring IT: A Journey Through Code and Creativity</h3>
 
-- 🌱 I’m currently learning **aws**
-
-- 📫 How to reach me **sahancliyanage@gmail.com**
-
-- ⚡ Fun fact **call me sahan**
+- 👨‍💻 I’m an **IT Student** and **Aspiring Cloud Enthusiast**  
+- 🌱 I’m currently learning **AWS** and other **cloud technologies**  
+- 💡 I’m passionate about **programming**, **databases**, and solving **real-world tech problems**  
+- 🚀 I love exploring **new technologies** to expand my skillset  
+- 📫 How to reach me: **sahancliyanage@gmail.com**  
+- ⚡ Fun fact: **Call me Sahan!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
